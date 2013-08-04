@@ -7,7 +7,7 @@ Solution to Twitter Sentiment assignment in Introduction to Data Science(Courser
 ## Exercises 
 
 1.  **Get Twitter Data:**
-  Copy API credentials in the given **twitterstream.py** and run the following for 10 minutes:
+  Copy API credentials into the given **twitterstream.py** and run the following for 10 minutes:
   
   ```bash
     python twitterstream.py > output.txt
